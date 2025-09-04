@@ -1,0 +1,56 @@
+.tudin{
+    text-align: center;
+}
+
+.fotinnome img{
+border: 1px rgb(255, 255, 255) solid;
+border-radius: 50%;
+}
+
+.cordolink{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.cordolink a {
+color: rgb(255, 255, 255);
+}
+
+.wpp{
+background-color: rgb(40, 90, 47);
+height: 50px;
+width: 400px;
+}
+
+.tele{
+background-color: rgb(37, 76, 126);
+height: 50px;
+width: 400px;
+}
+
+.twii{
+background-color: rgb(106, 155, 228);
+height: 50px;
+width: 400px;
+}
+
+.insta{
+background-color: rgb(218, 141, 25);
+height: 50px;
+width: 400px;
+}
+
+.youyou{
+background-color: rgb(255, 0, 0);
+height: 50px;
+width: 400px;
+}
+
+.likiki{
+background-color: rgb(20, 32, 88);
+height: 50px;
+width: 400px;
+}
